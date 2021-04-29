@@ -1,4 +1,4 @@
-# Hi there I'm Manish R R👋
+# Hi there 👋
 
 ![Image](https://raw.githubusercontent.com/ManishRaghavan/Manish-portfolio/main/portfolio/LINKEDIN.jpg?token=AROSPKEMZTBDVXBT7DLNG6TARJKXY)
 
