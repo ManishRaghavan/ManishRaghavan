@@ -1,4 +1,4 @@
-
+ <img align="center" src="https://raw.githubusercontent.com/ManishRaghavan/Manish-portfolio/882737f4941cc6f5da0207473bd7cfca4e09a923/portfolio/wave%202.svg?token=AROSPKFKZWXQPAILLKCCMVTATK6IM" />
 # Hi there 👋 I'm Manish R R
 #### Glad To See You Here! 🤩
 >The journey started when I was coding a simple "Hello world" program in my High School. The feeling that I got when I entered some lines, the computer replied to me "Hello world" was beautiful. 
@@ -41,4 +41,4 @@
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=ManishRaghavan&theme=react-dark)](https://github.com/ManishRaghavan/github-readme-activity-graph)
 
-
+ <img align="center" src="https://raw.githubusercontent.com/ManishRaghavan/Manish-portfolio/882737f4941cc6f5da0207473bd7cfca4e09a923/portfolio/wave.svg?token=AROSPKF5X6NMCPASW42XDB3ATK6NC" />
