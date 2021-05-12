@@ -1,4 +1,4 @@
- <img align="center" src="https://raw.githubusercontent.com/ManishRaghavan/Manish-portfolio/882737f4941cc6f5da0207473bd7cfca4e09a923/portfolio/wave%202.svg?token=AROSPKFKZWXQPAILLKCCMVTATK6IM" />
+ <img align="center" src="https://github.com/ManishRaghavan/Manish-portfolio/blob/main/portfolio/wave 2.svg" />
  
 # Hi there 👋 I'm Manish R R
 #### Glad To See You Here! 🤩
@@ -42,4 +42,4 @@
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=ManishRaghavan&theme=react-dark)](https://github.com/ManishRaghavan/github-readme-activity-graph)
 
- <img align="center" src="https://raw.githubusercontent.com/ManishRaghavan/Manish-portfolio/882737f4941cc6f5da0207473bd7cfca4e09a923/portfolio/wave.svg?token=AROSPKF5X6NMCPASW42XDB3ATK6NC" />
+ <img align="center" src="https://github.com/ManishRaghavan/Manish-portfolio/blob/main/portfolio/wave.svg" />>
