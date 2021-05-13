@@ -17,8 +17,8 @@
 
 |  Project Name 📝 | Tools 👨‍🔧   | My Role 👨‍💼️ |
 | -------------- | ------------ | ------------ |
-| Revv.co Clone  |  JavaScript, React, Node, and MongoDB  |  I was responsible for handling the data and the user interface and user experience of the subscription page and payment page
-| CoderJam(hackathon project) |  JavaScript, React, Node, and MongoDB  |  I was responsible for handling the data and the user interface and user experience of the map where user can serach for the hospitals for covid
+| Revv.co Clone  |  JavaScript, React, Node.js, and MongoDB  |  I was responsible for handling the data and the user interface and user experience of the subscription page and payment page
+| CoderJam(hackathon project) |  JavaScript, React, Node.js, and MongoDB  |  I was responsible for handling the data and the user interface and user experience of the map where user can serach for the hospitals for covid
 | Goodreads Clone  |  JavaScript, React, CSS3 | I was responsible for building the chat system, and user interface of the community page where people can comment and share books
 
 # Languages and Tools 🛠️
