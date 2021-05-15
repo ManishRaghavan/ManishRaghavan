@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **Fascination projects**
 - 💻 I'm available to work with **enterprising teams**
 
-#### The green dots on my GitHub profile represent my journey 🏃‍♂️.You can find me on [LinkedIn](https://www.linkedin.com/in/manish-raghavan/ "LinkedIn") 👨‍💼. Say Hi on Twitter([Manish Raghavan](https://twitter.com/manishraghavan4 "Manish Raghavan"))! ❤️ 💬
+#### The green dots on my GitHub profile represent my journey 🏃‍♂️.You can find me on [LinkedIn](https://www.linkedin.com/in/manish-raghavan/ "LinkedIn") 👨‍💼. Say Hi on Twitter([Manish Raghavan](https://twitter.com/manishrr_dev))! ❤️ 💬
 
 
 ------------
