@@ -43,4 +43,4 @@
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=ManishRaghavan&theme=react-dark)](https://github.com/ManishRaghavan/github-readme-activity-graph)
 
- <img align="center" src="https://github.com/ManishRaghavan/Manish-portfolio/blob/main/portfolio/wave.svg" />>
+ <img align="center" src="https://github.com/ManishRaghavan/Manish-portfolio/blob/main/portfolio/wave.svg" />
