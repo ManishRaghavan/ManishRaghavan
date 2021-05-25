@@ -35,11 +35,10 @@
 
 
 # GitHub Activity
-<a href="https://github.com/ManishRaghavan">
-<img align="center" alt="Manish's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ManishRaghavan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/ManishRaghavan">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ManishRaghavan&layout=compact&theme=radical" />
-</a>
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishRaghavan&show_icons=true&theme=radical&count_private=true)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishRaghavan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=ManishRaghavan&theme=react-dark)](https://github.com/ManishRaghavan/github-readme-activity-graph)
 
